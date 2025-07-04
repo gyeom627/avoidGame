@@ -1,7 +1,7 @@
 # avoidGame
 ```
- 이 프로젝트는 바이브 코딩을 익숙하게 다루기 위해 시작되었습니다.
- This project was created to help me get familiar with Vibe Coding.
+이 프로젝트는 바이브 코딩을 익숙하게 다루기 위해 시작되었습니다.
+This project was created to help me get familiar with Vibe Coding.
 ```
 --------------------------------------------------------------------
 ```
